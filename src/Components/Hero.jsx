@@ -13,7 +13,7 @@ function Hero() {
           </div>
           <div className="col-lg-6">
             <img
-              src="/public/Images/ccd9e7f69d4cbfcf331c69b8e21db35d2e158410.png"
+              src="Images/ccd9e7f69d4cbfcf331c69b8e21db35d2e158410.png"
               className="w-100"
             />
           </div>
@@ -24,7 +24,7 @@ function Hero() {
         </div>
         <div className="shops p-3">
           <p>Also Available On</p>
-          <img src="\public\Images\shops.png" />
+          <img src="Images/shops.png" />
         </div>
       </div>
     </>

@@ -6,7 +6,7 @@ function Navbar() {
             <div className="row w-100 align-items-lg-center">
               <div className="col-4">
                 <a className="navbar-brand" href="#">
-                  <img src="/Images/45175a94d5389cc06b9d40c646878c60ac4bf7ed.png" />
+                  <img src="Images/45175a94d5389cc06b9d40c646878c60ac4bf7ed.png" />
                 </a>
               </div>
               <div className="col-4 text-center">
